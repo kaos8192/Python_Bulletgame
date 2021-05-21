@@ -1,0 +1,23 @@
+How to use:
+    Type ideas in these formats:
+        Incomplete Idea:
+
+            [] <idea here>
+
+        Completed Idea:
+
+            [✓] <idea here>
+
+Key Codes:
+    In insert mode, hold ctrl and press k, then release both.
+    You'll see a question mark by the cursor. This is digraph insert.
+    These allow for 2 chars to become a single symbol, this is case sensitive!!!
+
+    Combo Key:
+    OK  -->  ✓
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Checklist:
+
+
