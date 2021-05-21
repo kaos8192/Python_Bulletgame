@@ -16,7 +16,6 @@ Controls:
 Move:
     w, a, s, d
     up arrow, left arrow, down arrow, right arrow
-
     hold shift to shrink hitbox and use alt fire, but move slower
 
 Shoot:
@@ -34,7 +33,7 @@ Notes:
     single bullets deal more damage than spread bullets
     game closes when player is out of lives
     player loses upgrades on death
-
+        
     https://stackoverflow.com/questions/32078346/python-pygame-enemy-collision
     https://techwithtim.net/tutorials/game-development-with-python/pygame-tutorial/projectiles/
     https://www.youtube.com/watch?v=sj8Sg8qnjOg
